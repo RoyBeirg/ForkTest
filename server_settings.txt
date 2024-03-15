@@ -8,4 +8,5 @@ Root Directory: /var/www/test
 Username: test_user
 Password: test_password
 Log File: /var/log/test_server.log
-Debug Mode: true
+Debug Mode: false
+Firewall : enabled
