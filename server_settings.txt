@@ -1,0 +1,11 @@
+Server Type: Web Server
+Server Name: test_server
+Port: 8080
+Address: 127.0.0.1
+Root Directory: /var/www/test
+
+# Optional Settings
+Username: test_user
+Password: test_password
+Log File: /var/log/test_server.log
+Debug Mode: true
