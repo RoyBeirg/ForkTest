@@ -1,0 +1,3 @@
+character_level_start = 1
+character_hp_start = 50
+character_base_start_speed = 120
